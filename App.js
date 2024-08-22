@@ -245,7 +245,7 @@ function GetStarted({ navigation }) {
     <ImageBackground source={require('./assets/deliveryhome.webp')} style={styles.background}>
       <SafeAreaView style={styles.safeArea}>
         <View style={styles.overlay}>
-          <Text style={styles.title}>Welcome to Scooter Food Deliveries</Text>
+          <Text style={styles.title}>Pushing P Deliveries</Text>
           <Pressable style={styles.button} onPress={handleGetStarted}>
             <Text style={styles.buttonText}>Get Started</Text>
           </Pressable>
