@@ -460,7 +460,7 @@ function Home({ navigation }) {
     <ImageBackground source={require('./assets/deliveryhome.webp')} style={styles.background}>
       <SafeAreaView style={styles.safeArea}>
         <View style={styles.homeContent}>
-          <Text style={styles.title}>Scooter Food Deliveries - Delivery to U!!</Text>
+          <Text style={styles.title}>Pushing p Deliveries - Delivery to U!!</Text>
           <Text style={styles.subtitle}>Sign up below:</Text>
           <View style={styles.inputContainer}>
             <TextInput 
